@@ -16,22 +16,22 @@ Welcome to the documentation for the Autonomous Indoor Drone project! This proje
 ## Features
 The Autonomous Indoor Drone project comes equipped with several impressive features, making it a highly capable system for navigating and operating within indoor environments. The key features of the project are as follows:
 
-### Autonomous Navigation 
+#### Autonomous Navigation 
 The drone is capable of autonomously navigating to desired location points (x, y, z) within an indoor setting. Leveraging advanced algorithms, the drone plans its path to reach its destination.
 
-### Python and ROS Integration
+#### Python and ROS Integration
 The project extensively utilizes Python and the Robot Operating System (ROS) framework. Python's versatility and ROS's modular architecture enable seamless communication and control between different components of the drone system.This also can be used to receive the drone's data like the Mission planner did.
 
-### Localization Visualization with RVIZ
+#### Localization Visualization with RVIZ
 The drone's localization is visually represented through RVIZ, a powerful visualization tool in ROS. Users can observe real-time updates of the drone's position, orientation, and sensor data, enhancing situational awareness during autonomous flight.
 
-### Waypoint Planning
+#### Waypoint Planning
 Users can define waypoints for the drone to follow autonomously. The drone efficiently plans its path between waypoints, ensuring smooth and efficient traversal throughout the indoor environment.
 
-### Real-time Telemetry (Mission Planner)
+#### Real-time Telemetry (Mission Planner)
 The drone provides real-time telemetry data, including battery status, GPS coordinates, altitude, and sensor readings. This data is essential for monitoring and ensuring the drone's health and safety during operation.The data will be displayed on Mission Planner
 
-### Versatile Payload Support
+#### Versatile Payload Support
 The drone's design allows for the attachment of various payloads, such as cameras, sensors, or small delivery mechanisms, making it suitable for a wide range of applications, including surveillance, monitoring, and research.
 
 
