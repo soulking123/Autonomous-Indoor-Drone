@@ -81,6 +81,11 @@ The project's modular architecture allows for easy integration into existing War
 ![Image Alt Text](Images/drone_1.jpeg)
 ![Image Alt Text](Images/drone_2.jpeg)
 ![Image Alt Text](Images/drone_3.jpeg)
+<video width="640" height="360" controls>
+  <source src="Videos/flight.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 Bonus Picture me and my teams :)
