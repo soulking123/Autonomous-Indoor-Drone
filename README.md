@@ -35,6 +35,9 @@ The drone provides real-time telemetry data, including battery status, GPS coord
 The drone's design allows for the attachment of various payloads, such as cameras, sensors, or small delivery mechanisms, making it suitable for a wide range of applications, including surveillance, monitoring, and research.
 
 
+
+
+
 ## Getting Started
 
 Provide instructions on how to get the project up and running on a local machine.
