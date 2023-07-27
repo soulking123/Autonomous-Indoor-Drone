@@ -78,13 +78,13 @@ The project's modular architecture allows for easy integration into existing War
 ---
 
 ## Screenshots or Demo
-![Image Alt Text](Images/drone_1.png)
-![Image Alt Text](Images/drone_1.png)
-![Image Alt Text](Images/drone_1.png)
+![Image Alt Text](Images/drone_1.jpeg)
+![Image Alt Text](Images/drone_2.jpeg)
+![Image Alt Text](Images/drone_3.jpeg)
 
 ---
 Bonus Picture me and my teams :)
-![Image Alt Text](Images/Teams.png)
+![Image Alt Text](Images/Teams.jpg)
 
 
 
