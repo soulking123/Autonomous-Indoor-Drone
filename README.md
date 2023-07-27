@@ -78,8 +78,7 @@ The project's modular architecture allows for easy integration into existing War
 ---
 
 ## Screenshots or Demo
-
-Include screenshots or a demo video to showcase the project's user interface or functionality.
+![Image Alt Text](Images/1.png)
 
 ---
 *(Optional: Add any additional sections or information relevant to your project.)*
